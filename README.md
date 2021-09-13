@@ -1,5 +1,8 @@
 # dsPortfolio
-A collection of projects that demonstrate my skills and knowledge with regards to Data Science
+
+Hi! I'm Matthew.
+
+I'm a Data Scientist currently working at NSW Health. I have an undergraduates degree in Health Science as well as a Masters in Data Science. I love all things data, particularly when they intersect with the health industry. This repository serves as a showcase of my skills that I can apply to roles within the data science industry. 
 
 ## Contents
 - Python:
