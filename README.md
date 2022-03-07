@@ -2,7 +2,7 @@
 
 Hi! I'm Matthew.
 
-I'm a Data Scientist currently working at NSW Health. I have an undergraduates degree in Health Science as well as a Masters in Data Science. I love all things data, particularly when they intersect with the health industry. This repository serves as a showcase of my skills that I can apply to roles within the data science industry. 
+I'm a Data Scientist currently working at Optus. I have an undergraduates degree in Health Science as well as a Masters in Data Science. This repository serves as a showcase of my skills that I can apply to roles within the data science industry. 
 
 ## Contents
 - Python:
@@ -13,7 +13,4 @@ I'm a Data Scientist currently working at NSW Health. I have an undergraduates d
   - R_netball: Data preparation for input into a Power BI report for the purposes of injury identification and longitudinal analysis
 - SQL:
   - SQL_bigquery: Using SQL and Google BigQuery to explore the San Francisco Bike Dataset
-
-## Current Project
-- Computer Vision in Team Sports:
-  - Inspired by Tesla's Full Self Driving, I am Working on implementing CNN's and transformers to transform 2D video input of team sports to a 3D vector space for      the purposes of identifying patterns in player movement which potentially lead to important events such as scoring.  
+ 
