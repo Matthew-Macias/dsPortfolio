@@ -7,6 +7,8 @@ I'm a Data Scientist currently working at Optus. I have an undergraduates degree
 ## Contents
 - Linear Alg:
 - Deep Learning:
+  - Pytorch:
+    - U-Net: A pytorch implementation of a U-Net architecture used for binary image segmentation. 
 - Python:
   - Python_garmin: EDA on my personal garmin data (activity and gpx data), using pandas matplotlib, numpy, seaborn, folium
   - Python_opencv: Using opencv template matching to identify wally within a wheres wally image
