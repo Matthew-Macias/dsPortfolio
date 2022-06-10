@@ -1,1 +1,2 @@
-
+- Linear Algebra for Data Science: A notebook containing linear algebra functions and my implementations of them using python. 
+- LinAlg.py: Functions that I am working on for the hyperlearn package.
